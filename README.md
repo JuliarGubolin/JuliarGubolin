@@ -4,7 +4,7 @@
 
 ![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliarGubolin&show_icons=true&theme=dracula)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliarGubolin&layout=compact&langs_count=6&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliarGubolin&layout=compact&langs_count=6&theme=dracula"/>
 
 ### Tools and Languages that I am familiar with
 

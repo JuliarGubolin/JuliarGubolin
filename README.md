@@ -18,4 +18,4 @@
 <img align="center" alt="Azure" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></div><br/>
   
 
-Atualmente focada no aprendizado de Backend com Spring Framework e Java. Iniciando no ensino de tecnologia através de projetos voluntários!
+Currently focused on learning Backend with Spring Framework and Java. Getting started in teaching technology through volunteer projects!

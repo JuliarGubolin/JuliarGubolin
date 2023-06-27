@@ -4,6 +4,8 @@
 
 ![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliarGubolin&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliarGubolin)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnlogias que utilizo/já utilizei no meu dia
 
 <div style="display: inline_block"><br/>

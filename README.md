@@ -1,12 +1,12 @@
-### Olá! Eu sou a Julia Gubolin 👩
+### Hi! My name is Julia Gubolin 👩
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juuuuujs/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/julia-rodrigues-gubolin)
 
 ![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliarGubolin&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliarGubolin)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliarGubolin&layout=compact&langs_count=6&theme=tokyonight"/>
 
-### Tecnlogias que utilizo/já utilizei no meu dia
+### Tools and Languages that I am familiar with
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">

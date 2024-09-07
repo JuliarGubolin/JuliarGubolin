@@ -5,6 +5,7 @@
 :computer: Currently focused on learning SQL, Python and Power BI for DataScience! <br>
 :blue_book: Bacharelor's Degree in Computer Science by UNESP (Universidade Estadual Paulista "Julio de Mesquita Filho"). <br>
 :chart_with_downwards_trend: DataScience Student by UNIVESP (Universidade Virtual do Estado de São Paulo). <br>
+:cloud: Microsoft certification **AZ-900: Azure Fundamentals**
 
 <!--![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliarGubolin&show_icons=true&theme=dracula)-->
 
